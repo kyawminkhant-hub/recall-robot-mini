@@ -15,7 +15,8 @@ The robot can be sent back to its origin or station by retracing the exact same 
 ### Manual Drive
 
 ```
-🔼 D-pad                         : ⬆️ forward, ⬇️ backward, ⬅️ left, ➡️ right
+↕️ D-pad Up/Down                 : ⬆️ forward, ⬇️ backward
+↔️ D-pad Left/Right              : ⬅️ left,    ➡️ right
 ```
 
 ```
@@ -25,9 +26,6 @@ The robot can be sent back to its origin or station by retracing the exact same 
 
 ```
 🕹️ R-joystick                    : 🔁🔄 rotate, ↩️↪️ pivot
-```
-
-```
 🕹️ R-joystick + L2 / R2          : ⤴️⤵️ strafe
 ```
 ### Recording 
