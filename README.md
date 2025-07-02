@@ -51,7 +51,7 @@ The robot can be sent back to its origin or station by retracing the exact same 
 ```
 
 ```
-L1 / R1                          : 🔁 loop
+▶️◀️ L1 / R1        : 🔁 loop
 ```
 
 # Developer-guide 
