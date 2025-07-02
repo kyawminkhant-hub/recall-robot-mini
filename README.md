@@ -51,8 +51,8 @@ The robot can be sent back to its origin or station by retracing the exact same 
 ```
 
 ```
-◀️ L1                            : Loop L1 (replay  >> reverse)
-▶️ R1                            : Loop R1 (reverse >> replay)
+◀️ L1                            : 🔁 Loop L1 (replay  >> reverse)
+▶️ R1                            : 🔁 Loop R1 (reverse >> replay)
 ```
 
 
@@ -61,8 +61,9 @@ The robot can be sent back to its origin or station by retracing the exact same 
 ## Schematic
 
 ![Schematic](./docs/images/Schematics.png)
+
 # References
----
+
 **Libraries:**
 * `esp32-ps3`: https://github.com/jvpernis/esp32-ps3/tree/master
 * `LittleFS`: https://github.com/littlefs-project/littlefs
