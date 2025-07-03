@@ -72,7 +72,7 @@ The robot can be sent back to its origin or station by retracing the exact same 
 
 # Demo
 
-[![Watch the video] (https://img.youtube.com/vi/n8u7NbTSzsg/maxresdefault.jpg)](https://youtu.be/n8u7NbTSzsg)
+[![Watch the video](https://img.youtube.com/vi/n8u7NbTSzsg/maxresdefault.jpg)](https://youtu.be/n8u7NbTSzsg)
 
 # References
 
