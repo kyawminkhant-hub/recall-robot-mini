@@ -61,7 +61,7 @@ The robot can be sent back to its origin or station by retracing the exact same 
 [TODO]
 ## Schematic
 
-![Schematic](./docs/images/Schematics.png)
+![Schematic](./docs/images/Schematics_updated.png)
 
 # Gallery 
 
