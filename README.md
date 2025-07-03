@@ -14,7 +14,7 @@ The robot can be sent back to its origin or station by retracing the exact same 
 
  `<PS3 Controller>`
 
-![mecanum_manual_drive](./docs/images/mecanum_manual_drive.png)
+![mecanum_manual_drive](./docs/images/mecanum_manual_drive_transparent.png)
 ### Manual Drive
 
 ```
@@ -61,7 +61,7 @@ The robot can be sent back to its origin or station by retracing the exact same 
 [TODO]
 ## Schematic
 
-![Schematic](./docs/images/Schematics_updated.png)
+![Schematic](./docs/images/Schematics_transparent.png)
 
 # Gallery 
 
