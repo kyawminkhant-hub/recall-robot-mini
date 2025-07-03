@@ -4,8 +4,11 @@ This project is a proof of concept for an omnidirectional robot capable of recor
 
 The robot can be sent back to its origin or station by retracing the exact same path it took, mechanisms can be used to undo or redo the last sequence of movements, or captured motion sequences can serve as training data for machine learning models in autonomous driving—among other applications.
 
+![recall-robot-mini-main](./docs/images/recall-robot-mini-main.jpg)
 
 # User-guide 
+
+![recall-robot-mini-ps3](./docs/images/recall-robot-mini-ps3.jpg | width=400)
 
 ## 🎮 Controls 
 
@@ -59,6 +62,13 @@ The robot can be sent back to its origin or station by retracing the exact same 
 ## Schematic
 
 ![Schematic](./docs/images/Schematics.png)
+
+# Gallery 
+
+![recall-robot-mini-top](./docs/images/recall-robot-mini-top.jpg)
+![recall-robot-mini-back](./docs/images/recall-robot-mini-back.jpg)
+![recall-robot-mini-side](./docs/images/recall-robot-mini-side.jpg)
+![recall-robot-mini-front](./docs/images/recall-robot-mini-front.jpg)
 
 # References
 
