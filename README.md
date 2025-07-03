@@ -29,7 +29,7 @@ The robot can be sent back to its origin or station by retracing the exact same 
 
 ```
 🕹️ R-joystick                    : 🔄 rotate, ↩️↪️ pivot
-🕹️ R-joystick + L2 / R2          : ⤴️⤵️ strafe
+🕹️ R-joystick + L2/R2            : ⤴️⤵️ strafe
 ```
 ### Recording 
 
