@@ -8,7 +8,7 @@ The robot can be sent back to its origin or station by retracing the exact same 
 
 # User-guide 
 
-![recall-robot-mini-ps3](./docs/images/recall-robot-mini-ps3.jpg | width=400)
+![recall-robot-mini-ps3](./docs/images/recall-robot-mini-ps3.jpg)
 
 ## 🎮 Controls 
 
